@@ -64,3 +64,8 @@
         (3 (reverse (geom-fp n m)))
         (4 (reverse (geom n m))))))
     (write result))
+
+
+;; RUN clisp overflow.lisp TO GET THIS TO WORK
+;; clisp overflow.lisp
+
